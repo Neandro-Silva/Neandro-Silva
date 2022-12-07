@@ -1,7 +1,7 @@
 ### Olá, eu sou Neandro Silva👋
 
 - 📚 Atualmente cursando Ciência da Computação
-- 🐧 Usuário linux 
+- 🐧 Usuário de linux 
 - 📧 Contate-me no e-mail: neandrosilva.11@gmail.com
 
 <div align="center">
