@@ -1,4 +1,4 @@
-### <h1>Olá, bem vindo! Sou Neandro Silva</h1>👋
+### <h1>Olá, bem vindo! Sou Neandro Silva👋👋</h1>
 
 - 📚 Atualmente cursando Licenciatura Ciências da Computação
 - 🐧 Usuário de linux 
