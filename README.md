@@ -1,15 +1,12 @@
 <div align="start">
     ### Olá, Sou Neandro Silva! 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neandro_silva1/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neandro-silva-117482240/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neandrosilva.11@gmail.com)
 
-
-
-     
    ![Neandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Neandro-Silva&show_icons=true&theme=merko) 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neandro-Silva)](https://github.com/anuraghazra/github-readme-stats)   
+   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neandro_silva1/)
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neandro-silva-117482240/)
+    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neandrosilva.11@gmail.com) 
 
 
 ## Tecnologias utilizadas no meu dia a dia
