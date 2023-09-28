@@ -1,5 +1,5 @@
 <div align="start">
-    ### Olá, Sou Neandro Silva! 👋
+    ## Olá, Sou Neandro Silva! 👋
 
 
    ![Neandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Neandro-Silva&show_icons=true&theme=merko) 
@@ -22,5 +22,5 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br>
 
-Apaixonado por tecnologia e educação.
+
 </div>
