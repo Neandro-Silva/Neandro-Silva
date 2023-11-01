@@ -1,7 +1,10 @@
 <div align="start">
-    Olá, Sou Neandro Silva! 👋
 
+    
+    Olá, Sou Neandro Silva
+    
 
+        
    ![Neandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Neandro-Silva&show_icons=true&theme=merko)
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neandro-Silva)](https://github.com/anuraghazra/github-readme-stats)   
