@@ -1,15 +1,16 @@
-<div align="start">
-Olá, Sou Neandro Silva :wave:
+### Olá, Sou Neandro Silva. :wave: Atualmente estou estudando para atuar na vaga de back-end.
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neandro_silva1/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neandro-silva-117482240/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neandrosilva.11@gmail.com) 
+
         
-   ![Neandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Neandro-Silva&show_icons=true&theme=merko)
+![Neandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Neandro-Silva&show_icons=true&theme=merko)
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neandro-Silva)](https://github.com/anuraghazra/github-readme-stats)   
-   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neandro_silva1/)
-    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neandro-silva-117482240/)
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neandrosilva.11@gmail.com) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neandro-Silva)](https://github.com/anuraghazra/github-readme-stats)   
+   
 
-
-## Tecnologias utilizadas no meu dia a dia
+## Tecnologias utilizadas que tenho utilizado atualmente:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,7 +21,4 @@ Olá, Sou Neandro Silva :wave:
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whitehttps://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div><br>
-
-
 </div>
