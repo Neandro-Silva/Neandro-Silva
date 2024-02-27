@@ -1,4 +1,4 @@
-### Olá, Sou Neandro Silva. :wave: Atualmente estou estudando para atuar na vaga de back-end.
+### Olá, Sou Neandro Silva. :wave: Atualmente estou focado no back-end, a parte que eu mais gosto.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neandro_silva1/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neandro-silva-117482240/)
